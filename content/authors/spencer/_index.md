@@ -4,15 +4,15 @@ authors:
 bio: This course will give students a foundation in the principles and practice of
   data visualization, particularly as applied to scientific and technical data.
 email: ""
-name: Dr. Tanvir Ahmed
+name: Spencer Mark
 organizations:
-- name: CHIRAL Bangladesh 
+- name: University of Dhaka 
   url:
-role: Instructor, MBBS, MPH
+role: Department of Microbiology 
 social:
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/tanvir-ahmed-40a75a164
+  link: https://www.linkedin.com/in/durdana-mahin-priom-720608  a6
 - icon: piazza
   icon_pack: ai
   link: https://piazza.com/
@@ -23,6 +23,4 @@ superuser: false
 user_groups:
 - Instructors
 ---
-Dr. Tanvir has completed his MPH degree at North South University & is a full time physician. He is a research enthusiast and environmental health, antibiotics resistance are his research interests.
-
-Key Skills: Research Methodology, R, SPSS
+In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available.

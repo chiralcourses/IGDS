@@ -51,18 +51,21 @@ subtitle = ""
 +++
 
 ## Moudles
-HRT101: Introduction to Health Research <br>
-HRT102: NIH Research Ethics <br>
-HRT103: Applied Biotatistics for Beginners<br>
-HRT104: Tools for Data Collection<br>
-HRT105: Introduction to R for Health Data Analysis<br>
-HRT106: Academic Writing with LaTeX<br>
-HRT107: Tools and Softwares for Research<br>
-HRT108: Research Project
+ISCB101: Introduction to Genomic Data Science<br>
+ISCB102: Introduction to UNIX/Linux for Genomic Data Science<br>
+ISCB103: Introduction to R<br>
+ISCB104: Data Management with R<br>
+ISCB105: Genomic Data Visualization with R<br>
+ISCB106: Bioconductor for Genomic Data Science<br>
+ISCB107: Statistics for Genomic Data Science<br>
+ISCB108: Reporting with R Markdwon<br>
+ISCB109: Version Control with Git & RStudio<br>
+ISCB110: Final Project
+
 
 ## References
-Basic Epidemiology by World Health Organization <br>
-NIH Research Ethics <br>
-Fundamentalsof Biostatistics by Bernard Rosner <br>
+Data Analysis for the Life Sciences with R by Michael I. Love, Rafael Irizarry <br>
+Statistics for Genomic Data Science by Jeff Leek<br>
+Bioinformatics For Dummies by  Cedric Notredame and Jean-Michel Claverie<br>
 Applied Medical Statistics for Beginners by Dr. Mohamed Elsherif <br>
 Introduction to R Programming by Dr. Roger D. Peng <br>

@@ -48,10 +48,10 @@ hero_media = "blimp.jpg"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = 'Course Fee: 5100 BDT, No. of Seats: 35 , Deadline: 17 December, Welcome Class: 18 December(Approx.)'
+  label = 'Course Fee: 5100 BDT, No. of Seats: 35 , Deadline: 15 January,2022. Welcome Class: 20 January(Approx.)'
 +++
 
-If you have no research experience but want to learn the necessary concepts in health research- then this is the right place for you to begin with.
+If you have no genomics research experience but want to learn the necessary concepts in genomics research- then this is the right place for you to begin with.
 
 <!--
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/chiralcourses" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span> -->
