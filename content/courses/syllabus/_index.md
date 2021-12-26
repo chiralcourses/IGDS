@@ -9,8 +9,8 @@ menu:
     weight: 1
 summary: Learn how to use Academic's docs layout for publishing online courses, software
   documentation, and tutorials.
-title: Health Research ToolBox - A Step by Step Guide for Beginners
-toc: false
+title: Introduction to Genomic Data Science
+toc: true 
 type: docs
 weight: 1
 ---
