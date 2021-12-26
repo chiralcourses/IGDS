@@ -52,11 +52,11 @@ subtitle = ""
 
 ## Moudles
 ISCB101: Introduction to Genomic Data Science<br>
-ISCB102: Introduction to UNIX/Linux for Genomic Data Science<br>
-ISCB103: Introduction to R<br>
-ISCB104: Data Management with R<br>
-ISCB105: Genomic Data Visualization with R<br>
-ISCB106: Bioconductor for Genomic Data Science<br>
+ISCB102: Introduction to R<br>
+ISCB103: Data Management with R<br>
+ISCB104: Genomic Data Visualization with R<br>
+ISCB105: Introduction to Bioconductor for Genomic Data Science<br>
+ISCB106: Introduction to RNA-Seq Analysis with Bioconductor<br>
 ISCB107: Statistics for Genomic Data Science<br>
 ISCB108: Reporting with R Markdwon<br>
 ISCB109: Version Control with Git & RStudio<br>
