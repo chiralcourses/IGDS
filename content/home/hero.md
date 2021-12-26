@@ -43,7 +43,7 @@ hero_media = "join.jpg"
   icon = "pen-nib"
 
 [cta_alt]
-  url = "https://hrt.chiralbd.org/syllabus/resources/"
+  url = "https://igdc.chiralbd.org/courses/syllabus/"
   label = "Detail Syllabus"
 
 # Note. An optional note to show underneath the links.
