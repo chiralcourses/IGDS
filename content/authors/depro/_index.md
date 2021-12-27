@@ -23,4 +23,5 @@ superuser: false
 user_groups:
 - Instructors
 ---
-In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available.
+Depro is currently enrolled as a Master’s student at the Department of Biochemistry and Molecular Biology, University of Dhaka. Apart from his broad exposure to life-science, he is an enthusiast of genomic and transcriptomic data science. R is his primary language for data analysis. 
+
