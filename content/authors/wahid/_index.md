@@ -21,7 +21,7 @@ social:
   link: https://github.com/apreshill/dataviz-intro
 superuser: true
 user_groups:
-- Instructors
+- Teaching Assistants
 ---
 
 

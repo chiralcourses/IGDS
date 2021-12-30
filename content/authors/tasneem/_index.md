@@ -21,7 +21,7 @@ social:
   link:
 superuser: false
 user_groups:
-- Instructors
+- Advisers
 ---
 
 She completed her Bachelor of Science (B.Sc.) and Master of Science (MS) from Department of Microbiology, University of Dhaka.

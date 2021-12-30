@@ -20,7 +20,7 @@ social:
   icon_pack: fab
   link: https://github.com/apreshill/muhibullah
 user_groups:
-- Instructors
+- Teaching Assistants
 ---
 
 He is an undergraduate student in the Department of Microbiology at Jagannath University and health data analysis, bioinformatics are some of his research interests.  Currently, he is working as a research assistant at CHIRAL Bangladesh. 
