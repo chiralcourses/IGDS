@@ -23,20 +23,20 @@
   url = "#people"
   weight = 40
 
-[[main]]
-  name = "Syllabus"
-  url = "courses/syllabus/"
-  weight = 50
+# [[main]]
+#   name = "Syllabus"
+#   url = "courses/syllabus/"
+#   weight = 50
   
-[[main]]
-  name = "Schedule"
-  url = "/schedule/"
-  weight = 60
+# [[main]]
+#   name = "Schedule"
+#   url = "/schedule/"
+#   weight = 60
 
-[[main]]
-  name = "Materials"
-  url = "/materials/"
-  weight = 70
+# [[main]]
+#   name = "Materials"
+#   url = "/materials/"
+#   weight = 70
 
 
 # Link to a PDF of your resume/CV from the menu.
