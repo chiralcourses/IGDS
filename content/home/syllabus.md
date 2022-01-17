@@ -51,16 +51,16 @@ subtitle = ""
 +++
 
 ## Moudles
-IGDC101: Introduction to Genomic Data Science<br>
-IGDC102: Introduction to R<br>
-IGDC103: Data Management with R<br>
-IGDC104: Genomic Data Visualization with R<br>
-IGDC105: Introduction to Bioconductor for Genomic Data Science<br>
-IGDC106: Introduction to RNA-Seq Analysis with Bioconductor<br>
-IGDC107: Statistics for Genomic Data Science<br>
-IGDC108: Reporting with R Markdwon<br>
-IGDC109: Version Control with Git & RStudio<br>
-IGDC110: Final Project
+IGDC101.S1: Introduction to Genomic Data Science<br>
+IGDC102.S1: Introduction to R<br>
+IGDC103.S1: Data Management with R<br>
+IGDC104.S1: Genomic Data Visualization with R<br>
+IGDC105v: Introduction to Bioconductor for Genomic Data Science<br>
+IGDC106.S1: Introduction to RNA-Seq Analysis with Bioconductor<br>
+IGDC107.S1: Statistics for Genomic Data Science<br>
+IGDC108.S1: Reporting with R Markdwon<br>
+IGDC109.S1: Version Control with Git & RStudio<br>
+IGDC110.S1: Final Project
 
 
 ## References
