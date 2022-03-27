@@ -33,10 +33,6 @@
 #   url = "/schedule/"
 #   weight = 60
 
-[[main]]
-  name = "Materials"
-  url = "/materials/"
-  weight = 70
 
 
 # Link to a PDF of your resume/CV from the menu.

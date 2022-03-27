@@ -42,9 +42,9 @@ hero_media = "join.jpg"
   icon_pack = "fas"
   icon = "pen-nib"
 
-[cta_alt]
-  url = "https://gds.chiralbd.org/courses/syllabus/"
-  label = "Detail Syllabus"
+# [cta_alt]
+#   url = "https://gds.chiralbd.org/courses/syllabus/"
+#   label = "Detail Syllabus"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
