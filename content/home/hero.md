@@ -43,12 +43,12 @@ hero_media = "join.jpg"
   icon = "pen-nib"
 
 [cta_alt]
-  url = "https://igdc.chiralbd.org/courses/syllabus/"
+  url = "https://gds.chiralbd.org/courses/syllabus/"
   label = "Detail Syllabus"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = 'Course Fee: 5100 BDT, No. of Seats: 35 , Deadline: 15 January,2022. Welcome Class: 20 January(Approx.)'
+  label = 'Course Fee: 5100 BDT, No. of Seats: 35 , Deadline: Comming Soon!. Welcome Class: Comming Soon!'
 +++
 
 If you have no genomics research experience but want to learn the necessary concepts in genomics research- then this is the right place for you to begin with.
