@@ -29,10 +29,10 @@
   url = "https://docs.google.com/spreadsheets/d/1VqTOxTseGvSfH1ET4vYeEkXoVkohhGzSI63nPAszrP8/edit?usp=sharing"
   weight = 50
 
-# [[main]]
-#   name = "Syllabus"
-#   url = "courses/syllabus/"
-#   weight = 50
+[[main]]
+  name = "Syllabus"
+  url = "courses/syllabus/"
+  weight = 50
   
 # [[main]]
 #   name = "Schedule"
